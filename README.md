@@ -23,7 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davmike&show_icons=true&locale=en" alt="davmike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davmike&" alt="davmike" /></p>
-
-## Watch snake eating my github contributions
-
-![snake gif](https://github.com/Davmike/Davmike/blob/output/github-contribution-grid-snake.svg)
