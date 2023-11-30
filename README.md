@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h4 align="center">Front-end developer with a keen focus on full-stack development.</h4>
+<h3 align="center">Front-end developer with a keen focus on full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davmike&label=Profile%20views&color=0e75b6&style=flat" alt="davmike" /> </p>
 
