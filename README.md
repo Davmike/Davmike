@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<img align="center" height="100%" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562"
+<img align="center" height="100%" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
 ###
 
