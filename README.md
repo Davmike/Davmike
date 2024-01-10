@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feportfolio.utm.my%2Fartefact%2Fartefact.php%3Fartefact%3D963595%26view%3D185127&psig=AOvVaw0IYFHzzLweTaf506RUZnHW&ust=1705016843963000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCwrO6A1IMDFQAAAAAdAAAAABAD"  />
+<img align="right" height="150" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127" />
 
 ###
 
