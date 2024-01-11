@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Front-End Developer from Georgia</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davmike&label=Profile%20views&color=0e75b6&style=flat" alt="davmike" /> </p>
 <img align="right" height="150" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127" />
 
 
