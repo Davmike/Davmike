@@ -9,9 +9,10 @@
 
 - 📫 How to reach me **davidmikeladze00@gmail.com**
 
-###
-
 <img align="right" height="150" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127" />
+
+
+
 
 ###
 
