@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Front-End Developer from Georgia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davmike&label=Profile%20views&color=0e75b6&style=flat" alt="davmike" /> </p>
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 <img align="right" height="150" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127" />
 
 
@@ -27,7 +27,7 @@
 </div>
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
