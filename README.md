@@ -10,6 +10,7 @@
 - 💬 Ask me about **React, Tailwind, RestAPI**
 
 - 📫 How to reach me **davidmikeladze00@gmail.com**
+- https://www.linkedin.com/in/david-mikeladze-927406264/
 
 
 ###
