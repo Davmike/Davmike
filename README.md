@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **davidmikeladze00@gmail.com**
 
+- Linkedin
 
 
 ###
