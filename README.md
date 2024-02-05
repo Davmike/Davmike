@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, Tailwind, RestAPI**
+
 
 - 📫 How to reach me **davidmikeladze00@gmail.com**
 
