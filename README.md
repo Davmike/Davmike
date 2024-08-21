@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Tailwind, RestAPI**
 
-- 📫 How to reach me **mikeladzedavid@gmail.com**
+- 📫 How to reach me **mikeladzedav@gmail.com**
 
 ###
 
