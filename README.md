@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **React, Tailwind, API**
+- 💬 Ask me about **React, Tailwind, RestAPI**
 
 - 📫 How to reach me **mikeladzedav@gmail.com**
 
