@@ -4,7 +4,7 @@
 <h3 align="left">👩‍💻  About Me:</h3>
 <img align="right" height="150" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127" />
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **React, Tailwind, RestAPI**
 
