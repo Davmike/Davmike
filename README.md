@@ -8,11 +8,11 @@
 
 ###
 
-<p align="center">Info there</p>
+<p align="center">Turning caffeine and curiosity into digital masterpieces! ☕💡</p>
 
 ###
 
-<h3 align="left">Tech ⚒️</h3>
+<h3 align="left">Tech💻🔧</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">Social⚒️</h3>
+<h3 align="left">Social🌐</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">Stats⚒️</h3>
+<h3 align="left">Stats📈</h3>
 
 ###
 
