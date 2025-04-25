@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">💻 Software Engineer from Georgia 🇬🇪</h3>
+<h3 align="center">💻 Software Engineer from Georgia🇬🇪</h3>
 
 ###
 
